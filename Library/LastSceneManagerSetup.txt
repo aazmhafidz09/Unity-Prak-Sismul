@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Aaz M Hafidz Azis_Modul 3D Bab II.unity
+  isLoaded: 1
+  isActive: 1
